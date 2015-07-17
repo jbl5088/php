@@ -1,0 +1,8 @@
+Singleton - can be instantiated only once
+
+Multiton - can be instantiated any number of times
+Proxy/Facade
+Decorator
+Factory
+Observer Pattern
+Publisher/subscriber
